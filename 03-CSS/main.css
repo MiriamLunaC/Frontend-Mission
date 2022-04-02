@@ -1,0 +1,287 @@
+ul.horizontal{
+    margin-right:10%;
+    margin-top:15px;
+    float: right;
+
+}
+
+ul.horizontal li{
+    display:block;
+    float:left;
+    margin-right:15px;
+}
+
+ul.horizontal li a{
+    color: #666565;
+    text-decoration: none;
+}
+
+#vacunacion{
+    float: left;
+    margin-left: 10%;
+}
+
+.azul2{
+    color: #185EC8;
+    font-weight: bold;
+}
+
+* {
+    font-family: sans-serif;
+}
+
+#img11{
+    float: right;
+    margin-top: 7%;
+}
+
+#nota1{
+    float: left;
+    margin-top: 2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 3%;
+}
+
+#horarios{
+    margin-top: 15%;
+    float: left;
+}
+
+#logos{
+    float: left;
+    justify-content: center;
+    padding: 5%;
+    opacity: 40%;
+}
+
+#nota3{
+    float: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+#nota4{
+    float: left;
+    display: flex;
+    justify-content: center;
+}
+
+#nota5{
+    float: left;
+    margin-top: 2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 3%;
+}
+
+footer{
+    float: left;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(225, 233, 255);
+    padding-top: 6%;
+    padding-bottom: 6%;
+    border-radius: 3px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 10%;
+}
+
+#nota1_1{
+    width: 50%;
+    margin-right: 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#nota1_2{
+    display: flex;
+    justify-content: center;
+}
+
+#horarios2{
+    box-shadow: 9px 9px 9px 9px rgb(216, 214, 214);
+}
+
+table{
+    display: flex;
+    justify-content: center;
+}
+
+td, th{
+    padding-right: 20px;
+}
+
+#logo{
+    padding-left: 5%;
+}
+
+#nota3_1, #nota5_1{
+    width: 50%;
+    margin: 5%;
+}
+
+#nota3_2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 3%;
+}
+
+.beneficio{
+    border: 1px solid rgb(243, 241, 241);
+    width: 230px;
+    margin-right: 7px;
+    padding: 15px;
+    border-radius: 12px;
+}
+
+.preparacion{
+    box-shadow: 1px 1px 1px 1px whitesmoke;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.preparacion p{
+    width: 95%;
+    margin-left: 12px;
+}
+
+#nota4_1{
+    width: 90%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.llamada{
+    box-shadow: 2px 2px 2px 2px whitesmoke;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+}
+
+.llamada button{
+    height: 50px;
+    font-size: large;
+    border-radius: 5px;
+    color: #1157be;
+    font-weight: bold;
+    background-color: rgb(240, 248, 250);
+    border-color: rgb(255, 255, 255);
+    border-width: 0px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.llamada_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.llamada_1 span{
+    margin-top: 5%;
+    margin-right: 7%;
+    margin-bottom: 5%;
+}
+
+.llamada_2 p{
+    font-size: small;
+}
+
+.llamada_2 label{
+    font-size: large;
+}
+
+.footer_1, .footer_2{
+    display: flex;
+    flex-direction: row;
+}
+
+.footer_2{
+    margin-top: 5%;
+}
+
+.footer_1 a{
+    margin-top: 10%;
+}
+
+.div1{
+    width: 15%;
+    margin-left: 7%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.div2{
+    margin-left: 27%;
+    margin-right: 3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.div3{
+    margin-right: 3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.div4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.p1{
+    margin-left: 7%;
+    font-size: small;
+}
+
+.p2{
+    margin-left: 30%;
+    font-size: small;
+}
+
+.p3{
+    margin-left: 10px;
+    font-size: small;
+}
+
+.azul{
+    color: #072859;
+    font-weight: bold;
+}
+
+.spanYellow{
+    color: #f7f71a;
+    background-color: #ffffd1;
+    border-radius: 5px;
+}
+
+span{
+    color: #1157be;
+    background-color: #f1f1ff;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+p, .gris{
+    color: #747474;
+    text-decoration: none;
+}
